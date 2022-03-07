@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: aqua;
+}
+
+.header_div{
+    background: blue;
+    color: chocolate;
+
+}
+
+.header_div p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkseagreen;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30x;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: coral;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px darkgrey;
+}
